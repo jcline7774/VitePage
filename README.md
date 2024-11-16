@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.  It was made as an example of a dynamic homepage created using javascript while giving us an intimate look into ReactJS coding, contemporary CSS, motion and more...
 
 Currently, two official plugins are available:
 
